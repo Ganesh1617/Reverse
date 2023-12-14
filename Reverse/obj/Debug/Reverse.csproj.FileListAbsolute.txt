@@ -1,0 +1,7 @@
+D:\C# Programs\Reverse\Reverse\bin\Debug\Reverse.exe.config
+D:\C# Programs\Reverse\Reverse\bin\Debug\Reverse.exe
+D:\C# Programs\Reverse\Reverse\bin\Debug\Reverse.pdb
+D:\C# Programs\Reverse\Reverse\obj\Debug\Reverse.csproj.AssemblyReference.cache
+D:\C# Programs\Reverse\Reverse\obj\Debug\Reverse.csproj.CoreCompileInputs.cache
+D:\C# Programs\Reverse\Reverse\obj\Debug\Reverse.exe
+D:\C# Programs\Reverse\Reverse\obj\Debug\Reverse.pdb
